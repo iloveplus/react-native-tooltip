@@ -1,12 +1,15 @@
 **使用如下：**<hr>
-<ToolTip <br>
-      actions={[ <br>
-        {text: '复制', onPress:this._copy}, <br>
-        {text: '粘贴', onPress: this._paste} <br>
-      ]} <br>
-      isCenter={false} <br>
-      tipTop={this.state.tipTop} <br>
-  /><br><br><br>
+<code>
+<ToolTip 
+       actions={[ <br>
+         {text: '复制', onPress:this._copy}, 
+         {text: '粘贴', onPress: this._paste} 
+       ]} 
+       isCenter={false} 
+       tipTop={this.state.tipTop} 
+   />
+</code>
+<br><br>
 <hr/>
   <ul>
     <li>actions:为所需要处理的按钮事件</li>  
