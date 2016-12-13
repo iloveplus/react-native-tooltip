@@ -1,6 +1,7 @@
 **使用如下：**<hr>
 <code>
-<ToolTip actions={[ 
+<ToolTip 
+        actions={[ 
          {text: '复制', onPress:this._copy}, 
          {text: '粘贴', onPress: this._paste} 
        ]} 
