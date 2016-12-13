@@ -1,6 +1,6 @@
 **使用如下：**<hr>
 `<ToolTip 
-       actions={[ <br>
+       actions={[ 
          {text: '复制', onPress:this._copy}, 
          {text: '粘贴', onPress: this._paste} 
        ]} 
