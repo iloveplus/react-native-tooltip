@@ -1,13 +1,5 @@
 **使用如下：**<hr>
-<code>
-<ToolTip actions={[ 
-         {text: '复制', onPress:this._copy}, 
-         {text: '粘贴', onPress: this._paste} 
-       ]} 
-       isCenter={false} 
-       tipTop={this.state.tipTop} 
-   />
-</code>
+<link rel='stylesheet' type='text/css' href='http://tools.oschina.net/js/syntaxhighlighter_3.0.83/styles/shCoreRDark.css'/><div id="highlighter_708099" class="syntaxhighlighter nogutter  js"><div class="toolbar"><span><a href="#" class="toolbar_item command_help help">?</a></span></div><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td class="code"><div class="container"><div class="line number1 index0 alt2"><code class="js plain">&lt;ToolTip&nbsp;actions={[&nbsp;</code></div><div class="line number2 index1 alt1"><code class="js spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</code><code class="js plain">{text:&nbsp;</code><code class="js string">'复制'</code><code class="js plain">,&nbsp;onPress:</code><code class="js keyword">this</code><code class="js plain">._copy},&nbsp;</code></div><div class="line number3 index2 alt2"><code class="js spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</code><code class="js plain">{text:&nbsp;</code><code class="js string">'粘贴'</code><code class="js plain">,&nbsp;onPress:&nbsp;</code><code class="js keyword">this</code><code class="js plain">._paste}&nbsp;</code></div><div class="line number4 index3 alt1"><code class="js spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</code><code class="js plain">]}&nbsp;</code></div><div class="line number5 index4 alt2"><code class="js spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</code><code class="js plain">isCenter={</code><code class="js keyword">false</code><code class="js plain">}&nbsp;</code></div><div class="line number6 index5 alt1"><code class="js spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</code><code class="js plain">tipTop={</code><code class="js keyword">this</code><code class="js plain">.state.tipTop}&nbsp;</code></div><div class="line number7 index6 alt2"><code class="js spaces">&nbsp;&nbsp;&nbsp;</code><code class="js plain">/&gt;</code></div></div></td></tr></tbody></table></div>
 <br><br>
 <hr/>
   <ul>
