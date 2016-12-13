@@ -1,13 +1,12 @@
 **使用如下：**<hr>
 <code>
-(<ToolTip 
-        actions={[ <br>
-          {text: '复制', onPress:this._copy}, 
-          {text: '粘贴', onPress: this._paste} 
-        ]} 
-        isCenter={false} 
-        tipTop={this.state.tipTop} 
-    />)
+<ToolTip actions={[ 
+         {text: '复制', onPress:this._copy}, 
+         {text: '粘贴', onPress: this._paste} 
+       ]} 
+       isCenter={false} 
+       tipTop={this.state.tipTop} 
+   />
 </code>
 <br><br>
 <hr/>
