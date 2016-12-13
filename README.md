@@ -8,7 +8,7 @@
        tipTop={this.state.tipTop} 
    />`
 
-<br><br><br>
+<br>
 <hr/>
   <ul>
     <li>actions:为所需要处理的按钮事件</li>  
